@@ -6,7 +6,6 @@ body, html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
 .navbar {
   height: 4rem;
   width: 100%;
@@ -39,12 +38,10 @@ body, html {
   color: black;
 }
 
-
 .navbar-list:hover {
   font-size: 1.3rem;
   text-decoration: underline;
 }
-
 
 header {
   background-image: url("Cricket Ground.jpg");
@@ -95,8 +92,6 @@ header p {
   }
 }
 
-
-/* General section styling */
 section {
   padding: 4rem 1rem;
   margin: 2rem 0;
@@ -233,9 +228,6 @@ section {
   margin: 0.5rem 0;
   font-size: 1.2rem;
 }
-
-
-
 
 footer {
   background-color: #333;
